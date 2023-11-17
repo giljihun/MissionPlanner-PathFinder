@@ -20,8 +20,10 @@ We thought that this was an important stain on our subject, long-term flight, an
 2. Find your Input File(.waypoints) and Enter Output File name.
    
 ![image](https://github.com/giljihun/MissionPlanner-PathFinder/assets/75918176/8ad4efd5-e4b8-42af-af07-03ed7557c2df)
-![image](https://github.com/giljihun/MissionPlanner-PathFinder/assets/75918176/3f2c0f81-a08b-4574-9d14-f883ed18a417)
+> before MPP
 
+![image](https://github.com/giljihun/MissionPlanner-PathFinder/assets/75918176/3f2c0f81-a08b-4574-9d14-f883ed18a417)
+> after MPP
 
 
 4. run and If you find Text "I Love TelKom Univ...", it works well.
