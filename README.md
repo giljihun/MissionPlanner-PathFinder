@@ -15,7 +15,9 @@ Typically, waypoints manually entered through the mission planner do not have an
 We thought that this was an important stain on our subject, long-term flight, and we wanted to optimize it.
 
 ## Usage
+1. Download 'MPP.app.zip' file.
 
+2. 
 
 ## Algorithmm
 
