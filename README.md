@@ -36,7 +36,6 @@ We thought that this was an important stain on our subject, long-term flight, an
 
 ## Future
 
-1. I will upload for Window -os
-2. I will upload althorithmm full code.
+1. I will upload althorithmm full code.
 
 
