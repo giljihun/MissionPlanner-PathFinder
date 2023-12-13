@@ -4,7 +4,7 @@ Welcome to the MissionPlanner-PathFinder!
 This Program for optimizing the waypoint path of 'Mission Planner' with Pixhawk Drone :D
 
 ## Introduction
-> First of all, this article does not cover how to use the 'Mission Planner'.
+> First of all, this document does not cover how to use the 'Mission Planner'.
 
 This is a program created for the "Drone for Long distance delivery" Team of the Global Capstone Design Project with   
 **Telkom University! 🇮🇩**  
