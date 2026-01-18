@@ -8,9 +8,6 @@
 > aiming to **reduce total flight distance and eliminate unnecessary movements**  
 > for more efficient drone missions.
 
-
----
-
 ## 프로젝트 배경 및 목적
 
 본 프로젝트는 **2023년 인도네시아 Telkom University와 함께 진행한 글로벌 캡스톤 프로젝트**에서 수행한  
@@ -34,7 +31,6 @@
 >  
 > For detailed system design and project background, please refer to the attached PDF document.
 
----
 
 ## Mission Planner란?
 
@@ -135,7 +131,6 @@ Waypoint 개수 범위 내에서는 실시간 처리에 무리가 없습니다.
 - 경로 교차 감소
 - 전체 비행 거리 단축
 
----
 
 ## 사용 방법
 
@@ -148,7 +143,6 @@ Waypoint 개수 범위 내에서는 실시간 처리에 무리가 없습니다.
 4. 알고리즘 적용 후 새로운 `.waypoints` 파일 생성
 5. Mission Planner에서 결과 파일 Import 및 적용
 
----
 
 ## 참고 자료
 
